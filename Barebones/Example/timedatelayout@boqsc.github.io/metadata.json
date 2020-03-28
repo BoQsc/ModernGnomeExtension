@@ -1,0 +1,8 @@
+{
+  "name": "timedatelayout",
+  "description": "Modify Gnome Shell: Time and Date Layout on Gnome Dash",
+  "uuid": "timedatelayout@boqsc.github.io",
+  "shell-version": [
+    "3.34"
+  ]
+}
