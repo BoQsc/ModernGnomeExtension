@@ -2,7 +2,7 @@
 
 
 
-## Reloading extension for developers
+## Reloading extension for developers by using Command Line
 ```
 busctl --user call \
 >     org.gnome.Shell \
