@@ -18,3 +18,6 @@ But this is not a zipped version.
 
 ## Sources
 https://wiki.gnome.org/Projects/GnomeShell/Extensions/EcoDoc/FirstExtension
+
+### Incomplete extension refresher
+https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/2510
