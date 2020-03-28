@@ -14,3 +14,7 @@ busctl --user call \
 
 Or installed and enabled via command `gnome-extensions` tool
 But this is not a zipped version.
+
+
+## Sources
+https://wiki.gnome.org/Projects/GnomeShell/Extensions/EcoDoc/FirstExtension
