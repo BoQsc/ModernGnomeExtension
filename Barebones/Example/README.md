@@ -21,3 +21,5 @@ https://wiki.gnome.org/Projects/GnomeShell/Extensions/EcoDoc/FirstExtension
 
 ### Incomplete extension refresher
 https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/2510
+
+https://superuser.com/questions/181517/how-to-execute-a-command-whenever-a-file-changes/1056022#1056022
